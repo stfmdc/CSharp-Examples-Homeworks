@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Pavle PC\\source\\repos\\OurFirstSolution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4016D17-F9F1-447C-9B7B-64571AE8DDFB}|OurFirstConsoleApp\\OurFirstConsoleApp.csproj|c:\\users\\pavle pc\\source\\repos\\ourfirstsolution\\ourfirstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4016D17-F9F1-447C-9B7B-64571AE8DDFB}|OurFirstConsoleApp\\OurFirstConsoleApp.csproj|solutionrelative:ourfirstconsoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Pavle PC\\source\\repos\\OurFirstSolution\\OurFirstConsoleApp\\Program.cs",
+              "RelativeDocumentMoniker": "OurFirstConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Pavle PC\\source\\repos\\OurFirstSolution\\OurFirstConsoleApp\\Program.cs",
+              "RelativeToolTip": "OurFirstConsoleApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T18:03:47.659Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

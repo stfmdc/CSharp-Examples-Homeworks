@@ -1,0 +1,5 @@
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\bin\Release\net8.0\app.publish\RealCalculator.exe
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\bin\Release\net8.0\app.publish\RealCalculator.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\bin\Release\net8.0\app.publish\RealCalculator.deps.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\bin\Release\net8.0\app.publish\RealCalculator.runtimeconfig.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\bin\Release\net8.0\app.publish\RealCalculator.pdb

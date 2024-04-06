@@ -1,0 +1,14 @@
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\bin\Debug\net8.0\OurFirstConsoleApp.exe
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\bin\Debug\net8.0\OurFirstConsoleApp.deps.json
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\bin\Debug\net8.0\OurFirstConsoleApp.runtimeconfig.json
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\bin\Debug\net8.0\OurFirstConsoleApp.dll
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\bin\Debug\net8.0\OurFirstConsoleApp.pdb
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\obj\Debug\net8.0\OurFirstConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\obj\Debug\net8.0\OurFirstConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\obj\Debug\net8.0\OurFirstConsoleApp.AssemblyInfo.cs
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\obj\Debug\net8.0\OurFirstConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\obj\Debug\net8.0\OurFirstConsoleApp.dll
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\obj\Debug\net8.0\refint\OurFirstConsoleApp.dll
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\obj\Debug\net8.0\OurFirstConsoleApp.pdb
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\obj\Debug\net8.0\OurFirstConsoleApp.genruntimeconfig.cache
+C:\Users\Pavle PC\source\repos\OurFirstSolution\OurFirstConsoleApp\obj\Debug\net8.0\ref\OurFirstConsoleApp.dll

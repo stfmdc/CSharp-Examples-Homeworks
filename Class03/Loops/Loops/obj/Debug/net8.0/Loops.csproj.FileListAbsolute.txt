@@ -1,0 +1,14 @@
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\bin\Debug\net8.0\Loops.exe
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\bin\Debug\net8.0\Loops.deps.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\bin\Debug\net8.0\Loops.runtimeconfig.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\bin\Debug\net8.0\Loops.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\bin\Debug\net8.0\Loops.pdb
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\obj\Debug\net8.0\Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\obj\Debug\net8.0\Loops.AssemblyInfoInputs.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\obj\Debug\net8.0\Loops.AssemblyInfo.cs
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\obj\Debug\net8.0\Loops.csproj.CoreCompileInputs.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\obj\Debug\net8.0\Loops.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\obj\Debug\net8.0\refint\Loops.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\obj\Debug\net8.0\Loops.pdb
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\obj\Debug\net8.0\Loops.genruntimeconfig.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Class03\Loops\Loops\obj\Debug\net8.0\ref\Loops.dll

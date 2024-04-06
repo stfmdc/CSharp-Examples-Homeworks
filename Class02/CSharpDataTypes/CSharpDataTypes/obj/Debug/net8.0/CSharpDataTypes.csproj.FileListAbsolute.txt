@@ -1,0 +1,14 @@
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\bin\Debug\net8.0\CSharpDataTypes.exe
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\bin\Debug\net8.0\CSharpDataTypes.deps.json
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\bin\Debug\net8.0\CSharpDataTypes.runtimeconfig.json
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\bin\Debug\net8.0\CSharpDataTypes.dll
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\bin\Debug\net8.0\CSharpDataTypes.pdb
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\obj\Debug\net8.0\CSharpDataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\obj\Debug\net8.0\CSharpDataTypes.AssemblyInfoInputs.cache
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\obj\Debug\net8.0\CSharpDataTypes.AssemblyInfo.cs
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\obj\Debug\net8.0\CSharpDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\obj\Debug\net8.0\CSharpDataTypes.dll
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\obj\Debug\net8.0\refint\CSharpDataTypes.dll
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\obj\Debug\net8.0\CSharpDataTypes.pdb
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\obj\Debug\net8.0\CSharpDataTypes.genruntimeconfig.cache
+C:\Users\Pavle PC\source\repos\CSharpDataTypes\CSharpDataTypes\obj\Debug\net8.0\ref\CSharpDataTypes.dll

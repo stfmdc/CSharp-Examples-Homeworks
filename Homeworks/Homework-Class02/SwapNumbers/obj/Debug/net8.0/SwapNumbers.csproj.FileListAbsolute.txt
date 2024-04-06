@@ -1,0 +1,14 @@
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\bin\Debug\net8.0\SwapNumbers.exe
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\bin\Debug\net8.0\SwapNumbers.deps.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\bin\Debug\net8.0\SwapNumbers.runtimeconfig.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\bin\Debug\net8.0\SwapNumbers.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\bin\Debug\net8.0\SwapNumbers.pdb
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.AssemblyInfoInputs.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.AssemblyInfo.cs
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.csproj.CoreCompileInputs.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\obj\Debug\net8.0\refint\SwapNumbers.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.pdb
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\obj\Debug\net8.0\SwapNumbers.genruntimeconfig.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\SwapNumbers\obj\Debug\net8.0\ref\SwapNumbers.dll

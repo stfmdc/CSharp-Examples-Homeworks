@@ -1,0 +1,14 @@
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\bin\Debug\net8.0\AverageNumber.exe
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\bin\Debug\net8.0\AverageNumber.deps.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\bin\Debug\net8.0\AverageNumber.runtimeconfig.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\bin\Debug\net8.0\AverageNumber.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\bin\Debug\net8.0\AverageNumber.pdb
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfoInputs.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.AssemblyInfo.cs
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.csproj.CoreCompileInputs.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\obj\Debug\net8.0\refint\AverageNumber.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.pdb
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\obj\Debug\net8.0\AverageNumber.genruntimeconfig.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\AverageNumber\obj\Debug\net8.0\ref\AverageNumber.dll

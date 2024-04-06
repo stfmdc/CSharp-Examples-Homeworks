@@ -1,0 +1,14 @@
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\bin\Debug\net8.0\RealCalculator.exe
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\bin\Debug\net8.0\RealCalculator.deps.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\bin\Debug\net8.0\RealCalculator.runtimeconfig.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\bin\Debug\net8.0\RealCalculator.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\bin\Debug\net8.0\RealCalculator.pdb
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\obj\Debug\net8.0\RealCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\obj\Debug\net8.0\RealCalculator.AssemblyInfoInputs.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\obj\Debug\net8.0\RealCalculator.AssemblyInfo.cs
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\obj\Debug\net8.0\RealCalculator.csproj.CoreCompileInputs.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\obj\Debug\net8.0\RealCalculator.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\obj\Debug\net8.0\refint\RealCalculator.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\obj\Debug\net8.0\RealCalculator.pdb
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\obj\Debug\net8.0\RealCalculator.genruntimeconfig.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp\Homeworks\Homework-Class02\RealCalculator\RealCalculator\obj\Debug\net8.0\ref\RealCalculator.dll
