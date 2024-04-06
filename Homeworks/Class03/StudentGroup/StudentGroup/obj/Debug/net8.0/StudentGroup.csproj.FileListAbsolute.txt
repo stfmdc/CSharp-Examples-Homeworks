@@ -1,0 +1,15 @@
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.exe
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.deps.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.runtimeconfig.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\bin\Debug\net8.0\StudentGroup.pdb
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.GeneratedMSBuildEditorConfig.editorconfig
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfoInputs.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.AssemblyInfo.cs
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.csproj.CoreCompileInputs.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.sourcelink.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\obj\Debug\net8.0\refint\StudentGroup.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.pdb
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\obj\Debug\net8.0\StudentGroup.genruntimeconfig.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\StudentGroup\StudentGroup\obj\Debug\net8.0\ref\StudentGroup.dll

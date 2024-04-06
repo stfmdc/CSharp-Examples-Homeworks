@@ -1,0 +1,15 @@
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.exe
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.deps.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.runtimeconfig.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\bin\Debug\net8.0\SumOfEven.pdb
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.GeneratedMSBuildEditorConfig.editorconfig
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.AssemblyInfoInputs.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.AssemblyInfo.cs
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.csproj.CoreCompileInputs.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.sourcelink.json
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\obj\Debug\net8.0\refint\SumOfEven.dll
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.pdb
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\obj\Debug\net8.0\SumOfEven.genruntimeconfig.cache
+D:\# SEDC - HTML & CSS - GitHub - Fork\CSharp-Examples-Homeworks\Homeworks\Class03\SumOfEven\SumOfEven\obj\Debug\net8.0\ref\SumOfEven.dll
